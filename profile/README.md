@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/104255381/165057301-dc5c29c7-c2c6-456f-ab24-2446a281fb55.png)
-<h1>MUKHAM</h1>
+<img src="https://user-images.githubusercontent.com/104255381/165057301-dc5c29c7-c2c6-456f-ab24-2446a281fb55.png"></img>
 <h2>ABOUT US</h2>
 <p>We all are accustomed to social distancing because of the great pandemic which left us with new challenges. As Schools, Colleges, Universities and Companies are reopening and the crowd is getting gathered back again. It might be really tough to follow the rules and take precautions. With every new challenge comes a new proposition</p>
 <p>We Company Mukham Inc, a fully student driven Start-up accelerating from VIT-AP emerged with a new Mobile Application which can be installed for facial attendance with 100% Social Distancing. It uses Geotagging to know the location of the particular user and if the user is not within the range the app won’t allow him to mark attendance</p>
