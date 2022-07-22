@@ -6,6 +6,9 @@
 <h2>PRODUCT</h2>
 <p>The application is integrated with Assistant to remind and process the flow. It consists of a complete simplified UI which takes less than 10 seconds to mark attendance. In addition to this it has a magnificent Complete Customized dashboards to take attendance reports. This indeed makes it easier both for the student as well as the educational institute, employee and the company. This can be enhanced to support and monitor the employees who are working on fields/on sites.</p>
 <hr><br><hr>
+<h2>MAuthN</h2>
+<p>Provides multiplatform, seamless passwordless authentication.</p>
+<hr><br><hr>
 <h2>CONTACT</h2>
 <p>Contact us at:<br>
 Phone :  +91-9585583918 <br>
