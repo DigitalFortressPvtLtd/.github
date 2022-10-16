@@ -13,6 +13,6 @@
 <p>Contact us at:<br>
 Phone :  +91-9585583918 <br>
 Email :  support@mukham.in <br>
-LinkedIn : https://www.linkedin.com/company/mukham/
+LinkedIn : https://www.linkedin.com/company/mukham/ <br>
 Website : https://mukham.in/
 </p><hr>
